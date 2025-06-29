@@ -1,0 +1,36 @@
+﻿using Dapper;
+using Microsoft.AspNetCore.Mvc;
+using MiniCrm.Models;
+
+namespace MiniCrm.Controllers
+{
+    public class ReportController : Controller
+    {
+        // Teklif Başarı Oranı
+        public IActionResult OfferSuccessRate()
+        {
+            var result = DP.Listeleme<dynamic>("GetOfferSuccessRate").FirstOrDefault();
+            ViewBag.SuccessRate = result?.SuccessRate ?? 0;
+            return View();
+        }
+
+        // Toplam Satış ve Gelir
+        public IActionResult TotalSalesAndRevenue(DateTime startDate, DateTime endDate)
+        {
+            var param = new DynamicParameters();
+            param.Add("@StartDate", startDate);
+            param.Add("@EndDate", endDate);
+            var result = DP.Listeleme<dynamic>("GetTotalSalesAndRevenue", param).FirstOrDefault();
+            ViewBag.TotalSales = result?.TotalSales ?? 0;
+            ViewBag.TotalRevenue = result?.TotalRevenue ?? 0;
+            return View();
+        }
+
+        // Müşteri Bazlı Satışlar
+        public IActionResult CustomerSales()
+        {
+            var result = DP.Listeleme<dynamic>("GetCustomerSales").ToList();
+            return View(result);
+        }
+    }
+}

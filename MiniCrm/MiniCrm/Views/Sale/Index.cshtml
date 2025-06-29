@@ -1,0 +1,39 @@
+﻿@model IEnumerable<MiniCrm.Models.SaleModel>
+
+@{
+    ViewData["Title"] = "Satış Listesi";
+}
+
+<h2>Satış Listesi</h2>
+
+<p>
+    <a href="/Sale/EY" class="btn btn-primary">Yeni Satış Ekle</a>
+</p>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Müşteri ID</th>
+            <th>Başlık</th>
+            <th>Tarih</th>
+            <th>Tutar</th>
+            <th>İşlemler</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.CustomerId</td>
+                <td>@item.Title</td>
+                <td>@item.SaleDate</td>
+                <td>@item.TotalAmount</td>
+                <td>
+                    <a href="/Sale/EY/@item.Id" class="btn btn-sm btn-warning">Düzenle</a>
+                    <a href="/Sale/Delete/@item.Id" class="btn btn-sm btn-danger" onclick="return confirm('Silmek istediğinize emin misiniz?');">Sil</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+    

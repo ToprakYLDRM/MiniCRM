@@ -1,0 +1,40 @@
+﻿@model IEnumerable<MiniCrm.Models.OfferModel>
+
+@{
+    ViewData["Title"] = "Teklif Listesi";
+}
+
+<h2>Teklif Listesi</h2>
+
+<p>
+    <a href="/Offer/EY" class="btn btn-primary">Yeni Teklif Ekle</a>
+</p>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Müşteri ID</th>
+            <th>Başlık</th>
+            <th>Tutar</th>
+            <th>Tarih</th>
+            <th>Durum</th>
+            <th>İşlemler</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.CustomerId</td>
+                <td>@item.Title</td>
+                <td>@item.Amount</td>
+                <td>@item.OfferDate</td>
+                <td>@item.Status</td>
+                <td>
+                    <a href="/Offer/EY/@item.Id" class="btn btn-sm btn-warning">Düzenle</a>
+                    <a href="/Offer/Delete/@item.Id" class="btn btn-sm btn-danger" onclick="return confirm('Silmek istediğinize emin misiniz?');">Sil</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

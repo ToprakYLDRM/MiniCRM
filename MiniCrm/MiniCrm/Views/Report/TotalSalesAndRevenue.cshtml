@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Toplam Satış ve Gelir";
+}
+
+<h2>Toplam Satış ve Gelir</h2>
+
+<form method="get">
+    <div class="form-group">
+        <label for="startDate">Başlangıç Tarihi:</label>
+        <input type="date" id="startDate" name="startDate" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label for="endDate">Bitiş Tarihi:</label>
+        <input type="date" id="endDate" name="endDate" class="form-control" required />
+    </div>
+    <button type="submit" class="btn btn-primary mt-3">Raporu Görüntüle</button>
+</form>
+
+@if (ViewBag.TotalSales != null)
+{
+    <div class="alert alert-success mt-3">
+        <strong>Toplam Satış:</strong> @ViewBag.TotalSales<br />
+        <strong>Toplam Gelir:</strong> @ViewBag.TotalRevenue TL
+    </div>
+}
+
+<a href="/Home/Index" class="btn btn-secondary">Geri Dön</a>

@@ -1,0 +1,45 @@
+﻿@model MiniCrm.Models.OfferModel
+
+@{
+    ViewData["Title"] = Model.Id == 0 ? "Yeni Teklif Ekle" : "Teklif Güncelle";
+    var statusList = new List<SelectListItem>
+    {
+        new SelectListItem { Text = "Kabul Edildi", Value = "Kabul Edildi" },
+        new SelectListItem { Text = "Beklemede", Value = "Beklemede" },
+        new SelectListItem { Text = "Reddedildi", Value = "Reddedildi" }
+    };
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="EY" method="post">
+    <input type="hidden" asp-for="Id" />
+
+    <div class="form-group">
+        <label asp-for="CustomerId"></label>
+        <input asp-for="CustomerId" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Title"></label>
+        <input asp-for="Title" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Amount"></label>
+        <input asp-for="Amount" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="OfferDate"></label>
+        <input asp-for="OfferDate" class="form-control" type="date" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Status"></label>
+        <select asp-for="Status" class="form-control" asp-items="statusList"></select>
+    </div>
+
+    <button type="submit" class="btn btn-success">Kaydet</button>
+    <a href="/Offer" class="btn btn-secondary">Geri Dön</a>
+</form>

@@ -1,0 +1,48 @@
+﻿using Dapper;
+using Microsoft.AspNetCore.Mvc;
+using MiniCrm.Models;
+
+namespace MiniCrm.Controllers
+{
+    public class SaleController : Controller
+    {
+        public IActionResult Index()
+        {
+            return View(DP.Listeleme<SaleModel>("SaleViewAll"));
+        }
+
+        public IActionResult EY(int id = 0)
+        {
+            if (id == 0)
+                return View();
+            else
+            {
+                var param = new DynamicParameters();
+                param.Add("@Id", id);
+                var sale = DP.Listeleme<SaleModel>("SaleViewById", param).FirstOrDefault();
+                return View(sale);
+            }
+        }
+
+        [HttpPost]
+        public IActionResult EY(SaleModel sale)
+        {
+            var param = new DynamicParameters();
+            param.Add("@Id", sale.Id);
+            param.Add("@CustomerId", sale.CustomerId);
+            param.Add("@Title", sale.Title);
+            param.Add("@SaleDate", sale.SaleDate);
+            param.Add("@TotalAmount", sale.TotalAmount);
+            DP.ExecuteReturn("SaleUpsert", param);
+            return RedirectToAction("Index");
+        }
+
+        public IActionResult Delete(int id)
+        {
+            var param = new DynamicParameters();
+            param.Add("@Id", id);
+            DP.ExecuteReturn("SaleDelete", param);
+            return RedirectToAction("Index");
+        }
+    }
+}

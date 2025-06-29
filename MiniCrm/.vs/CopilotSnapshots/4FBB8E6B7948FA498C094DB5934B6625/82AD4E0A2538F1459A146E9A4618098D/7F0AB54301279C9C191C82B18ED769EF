@@ -1,0 +1,28 @@
+﻿using Dapper;
+using System.Data.SqlClient;
+
+namespace MiniCrm.Models
+{
+    public class DP
+    {
+        public static string connectionString = "Data Source=TOPRAK\\SQLEXPRESS;Initial Catalog=MiniCrm;Integrated Security=True;MultipleActiveResultSets=True;TrustServerCertificate=True;";
+
+        public static void ExecuteReturn(string procName, DynamicParameters param = null)
+        {
+            using (SqlConnection db = new SqlConnection(connectionString))
+            {
+                db.Open();
+                db.Execute(procName, param, commandType: System.Data.CommandType.StoredProcedure);
+            }
+        }
+
+        public static IEnumerable<T> Listeleme<T>(string procName, DynamicParameters param = null)
+        {
+            using (SqlConnection db = new SqlConnection(connectionString))
+            {
+                db.Open();
+                return db.Query<T>(procName, param, commandType: System.Data.CommandType.StoredProcedure);
+            }
+        }
+    }
+}

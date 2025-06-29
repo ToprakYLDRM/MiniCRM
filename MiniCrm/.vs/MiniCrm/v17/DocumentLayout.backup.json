@@ -1,0 +1,415 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\topra\\source\\repos\\MiniCrm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E4AD6D-1C98-470F-817C-BF75A6336B5A}|MiniCrm\\MiniCrm.csproj|c:\\users\\topra\\source\\repos\\minicrm\\minicrm\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E4AD6D-1C98-470F-817C-BF75A6336B5A}|MiniCrm\\MiniCrm.csproj|solutionrelative:minicrm\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E4AD6D-1C98-470F-817C-BF75A6336B5A}|MiniCrm\\MiniCrm.csproj|c:\\users\\topra\\source\\repos\\minicrm\\minicrm\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E4AD6D-1C98-470F-817C-BF75A6336B5A}|MiniCrm\\MiniCrm.csproj|solutionrelative:minicrm\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E4AD6D-1C98-470F-817C-BF75A6336B5A}|MiniCrm\\MiniCrm.csproj|c:\\users\\topra\\source\\repos\\minicrm\\minicrm\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E4AD6D-1C98-470F-817C-BF75A6336B5A}|MiniCrm\\MiniCrm.csproj|solutionrelative:minicrm\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E4AD6D-1C98-470F-817C-BF75A6336B5A}|MiniCrm\\MiniCrm.csproj|c:\\users\\topra\\source\\repos\\minicrm\\minicrm\\views\\sale\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E4AD6D-1C98-470F-817C-BF75A6336B5A}|MiniCrm\\MiniCrm.csproj|solutionrelative:minicrm\\views\\sale\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E4AD6D-1C98-470F-817C-BF75A6336B5A}|MiniCrm\\MiniCrm.csproj|c:\\users\\topra\\source\\repos\\minicrm\\minicrm\\views\\sale\\ey.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E4AD6D-1C98-470F-817C-BF75A6336B5A}|MiniCrm\\MiniCrm.csproj|solutionrelative:minicrm\\views\\sale\\ey.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E4AD6D-1C98-470F-817C-BF75A6336B5A}|MiniCrm\\MiniCrm.csproj|c:\\users\\topra\\source\\repos\\minicrm\\minicrm\\views\\report\\totalsalesandrevenue.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E4AD6D-1C98-470F-817C-BF75A6336B5A}|MiniCrm\\MiniCrm.csproj|solutionrelative:minicrm\\views\\report\\totalsalesandrevenue.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E4AD6D-1C98-470F-817C-BF75A6336B5A}|MiniCrm\\MiniCrm.csproj|c:\\users\\topra\\source\\repos\\minicrm\\minicrm\\views\\report\\offersuccessrate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E4AD6D-1C98-470F-817C-BF75A6336B5A}|MiniCrm\\MiniCrm.csproj|solutionrelative:minicrm\\views\\report\\offersuccessrate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E4AD6D-1C98-470F-817C-BF75A6336B5A}|MiniCrm\\MiniCrm.csproj|c:\\users\\topra\\source\\repos\\minicrm\\minicrm\\views\\report\\customersales.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E4AD6D-1C98-470F-817C-BF75A6336B5A}|MiniCrm\\MiniCrm.csproj|solutionrelative:minicrm\\views\\report\\customersales.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E4AD6D-1C98-470F-817C-BF75A6336B5A}|MiniCrm\\MiniCrm.csproj|c:\\users\\topra\\source\\repos\\minicrm\\minicrm\\views\\offer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E4AD6D-1C98-470F-817C-BF75A6336B5A}|MiniCrm\\MiniCrm.csproj|solutionrelative:minicrm\\views\\offer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E4AD6D-1C98-470F-817C-BF75A6336B5A}|MiniCrm\\MiniCrm.csproj|c:\\users\\topra\\source\\repos\\minicrm\\minicrm\\views\\offer\\ey.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E4AD6D-1C98-470F-817C-BF75A6336B5A}|MiniCrm\\MiniCrm.csproj|solutionrelative:minicrm\\views\\offer\\ey.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E4AD6D-1C98-470F-817C-BF75A6336B5A}|MiniCrm\\MiniCrm.csproj|c:\\users\\topra\\source\\repos\\minicrm\\minicrm\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E4AD6D-1C98-470F-817C-BF75A6336B5A}|MiniCrm\\MiniCrm.csproj|solutionrelative:minicrm\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E4AD6D-1C98-470F-817C-BF75A6336B5A}|MiniCrm\\MiniCrm.csproj|c:\\users\\topra\\source\\repos\\minicrm\\minicrm\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E4AD6D-1C98-470F-817C-BF75A6336B5A}|MiniCrm\\MiniCrm.csproj|solutionrelative:minicrm\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E4AD6D-1C98-470F-817C-BF75A6336B5A}|MiniCrm\\MiniCrm.csproj|c:\\users\\topra\\source\\repos\\minicrm\\minicrm\\views\\customer\\ey.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E4AD6D-1C98-470F-817C-BF75A6336B5A}|MiniCrm\\MiniCrm.csproj|solutionrelative:minicrm\\views\\customer\\ey.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E4AD6D-1C98-470F-817C-BF75A6336B5A}|MiniCrm\\MiniCrm.csproj|c:\\users\\topra\\source\\repos\\minicrm\\minicrm\\models\\salemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E4AD6D-1C98-470F-817C-BF75A6336B5A}|MiniCrm\\MiniCrm.csproj|solutionrelative:minicrm\\models\\salemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E4AD6D-1C98-470F-817C-BF75A6336B5A}|MiniCrm\\MiniCrm.csproj|c:\\users\\topra\\source\\repos\\minicrm\\minicrm\\models\\offermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E4AD6D-1C98-470F-817C-BF75A6336B5A}|MiniCrm\\MiniCrm.csproj|solutionrelative:minicrm\\models\\offermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E4AD6D-1C98-470F-817C-BF75A6336B5A}|MiniCrm\\MiniCrm.csproj|c:\\users\\topra\\source\\repos\\minicrm\\minicrm\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E4AD6D-1C98-470F-817C-BF75A6336B5A}|MiniCrm\\MiniCrm.csproj|solutionrelative:minicrm\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E4AD6D-1C98-470F-817C-BF75A6336B5A}|MiniCrm\\MiniCrm.csproj|c:\\users\\topra\\source\\repos\\minicrm\\minicrm\\models\\dp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E4AD6D-1C98-470F-817C-BF75A6336B5A}|MiniCrm\\MiniCrm.csproj|solutionrelative:minicrm\\models\\dp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E4AD6D-1C98-470F-817C-BF75A6336B5A}|MiniCrm\\MiniCrm.csproj|c:\\users\\topra\\source\\repos\\minicrm\\minicrm\\models\\customermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E4AD6D-1C98-470F-817C-BF75A6336B5A}|MiniCrm\\MiniCrm.csproj|solutionrelative:minicrm\\models\\customermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E4AD6D-1C98-470F-817C-BF75A6336B5A}|MiniCrm\\MiniCrm.csproj|c:\\users\\topra\\source\\repos\\minicrm\\minicrm\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E4AD6D-1C98-470F-817C-BF75A6336B5A}|MiniCrm\\MiniCrm.csproj|solutionrelative:minicrm\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E4AD6D-1C98-470F-817C-BF75A6336B5A}|MiniCrm\\MiniCrm.csproj|c:\\users\\topra\\source\\repos\\minicrm\\minicrm\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E4AD6D-1C98-470F-817C-BF75A6336B5A}|MiniCrm\\MiniCrm.csproj|solutionrelative:minicrm\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E4AD6D-1C98-470F-817C-BF75A6336B5A}|MiniCrm\\MiniCrm.csproj|c:\\users\\topra\\source\\repos\\minicrm\\minicrm\\controllers\\offer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E4AD6D-1C98-470F-817C-BF75A6336B5A}|MiniCrm\\MiniCrm.csproj|solutionrelative:minicrm\\controllers\\offer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E4AD6D-1C98-470F-817C-BF75A6336B5A}|MiniCrm\\MiniCrm.csproj|c:\\users\\topra\\source\\repos\\minicrm\\minicrm\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E4AD6D-1C98-470F-817C-BF75A6336B5A}|MiniCrm\\MiniCrm.csproj|solutionrelative:minicrm\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E4AD6D-1C98-470F-817C-BF75A6336B5A}|MiniCrm\\MiniCrm.csproj|c:\\users\\topra\\source\\repos\\minicrm\\minicrm\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E4AD6D-1C98-470F-817C-BF75A6336B5A}|MiniCrm\\MiniCrm.csproj|solutionrelative:minicrm\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\topra\\source\\repos\\MiniCrm\\MiniCrm\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "MiniCrm\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\topra\\source\\repos\\MiniCrm\\MiniCrm\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "MiniCrm\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-29T12:22:43.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\topra\\source\\repos\\MiniCrm\\MiniCrm\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "MiniCrm\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\topra\\source\\repos\\MiniCrm\\MiniCrm\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "MiniCrm\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-29T12:22:38.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\topra\\source\\repos\\MiniCrm\\MiniCrm\\Views\\Sale\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiniCrm\\Views\\Sale\\Index.cshtml",
+              "ToolTip": "C:\\Users\\topra\\source\\repos\\MiniCrm\\MiniCrm\\Views\\Sale\\Index.cshtml",
+              "RelativeToolTip": "MiniCrm\\Views\\Sale\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-29T12:22:07.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EY.cshtml",
+              "DocumentMoniker": "C:\\Users\\topra\\source\\repos\\MiniCrm\\MiniCrm\\Views\\Sale\\EY.cshtml",
+              "RelativeDocumentMoniker": "MiniCrm\\Views\\Sale\\EY.cshtml",
+              "ToolTip": "C:\\Users\\topra\\source\\repos\\MiniCrm\\MiniCrm\\Views\\Sale\\EY.cshtml",
+              "RelativeToolTip": "MiniCrm\\Views\\Sale\\EY.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-29T12:22:05.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\topra\\source\\repos\\MiniCrm\\MiniCrm\\Views\\Offer\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiniCrm\\Views\\Offer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\topra\\source\\repos\\MiniCrm\\MiniCrm\\Views\\Offer\\Index.cshtml",
+              "RelativeToolTip": "MiniCrm\\Views\\Offer\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-29T12:21:54.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\topra\\source\\repos\\MiniCrm\\MiniCrm\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiniCrm\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\topra\\source\\repos\\MiniCrm\\MiniCrm\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MiniCrm\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-29T12:21:48.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\source\\repos\\MiniCrm\\MiniCrm\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "MiniCrm\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\topra\\source\\repos\\MiniCrm\\MiniCrm\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "MiniCrm\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T12:21:12.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CustomerModel.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\source\\repos\\MiniCrm\\MiniCrm\\Models\\CustomerModel.cs",
+              "RelativeDocumentMoniker": "MiniCrm\\Models\\CustomerModel.cs",
+              "ToolTip": "C:\\Users\\topra\\source\\repos\\MiniCrm\\MiniCrm\\Models\\CustomerModel.cs",
+              "RelativeToolTip": "MiniCrm\\Models\\CustomerModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T12:21:06.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\source\\repos\\MiniCrm\\MiniCrm\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MiniCrm\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\topra\\source\\repos\\MiniCrm\\MiniCrm\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MiniCrm\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T12:20:40.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DP.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\source\\repos\\MiniCrm\\MiniCrm\\Models\\DP.cs",
+              "RelativeDocumentMoniker": "MiniCrm\\Models\\DP.cs",
+              "ToolTip": "C:\\Users\\topra\\source\\repos\\MiniCrm\\MiniCrm\\Models\\DP.cs",
+              "RelativeToolTip": "MiniCrm\\Models\\DP.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T17:24:22.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EY.cshtml",
+              "DocumentMoniker": "C:\\Users\\topra\\source\\repos\\MiniCrm\\MiniCrm\\Views\\Offer\\EY.cshtml",
+              "RelativeDocumentMoniker": "MiniCrm\\Views\\Offer\\EY.cshtml",
+              "ToolTip": "C:\\Users\\topra\\source\\repos\\MiniCrm\\MiniCrm\\Views\\Offer\\EY.cshtml",
+              "RelativeToolTip": "MiniCrm\\Views\\Offer\\EY.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-27T12:15:05.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SaleModel.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\source\\repos\\MiniCrm\\MiniCrm\\Models\\SaleModel.cs",
+              "RelativeDocumentMoniker": "MiniCrm\\Models\\SaleModel.cs",
+              "ToolTip": "C:\\Users\\topra\\source\\repos\\MiniCrm\\MiniCrm\\Models\\SaleModel.cs",
+              "RelativeToolTip": "MiniCrm\\Models\\SaleModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T11:53:41.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OfferModel.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\source\\repos\\MiniCrm\\MiniCrm\\Models\\OfferModel.cs",
+              "RelativeDocumentMoniker": "MiniCrm\\Models\\OfferModel.cs",
+              "ToolTip": "C:\\Users\\topra\\source\\repos\\MiniCrm\\MiniCrm\\Models\\OfferModel.cs",
+              "RelativeToolTip": "MiniCrm\\Models\\OfferModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T11:53:32.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\topra\\source\\repos\\MiniCrm\\MiniCrm\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MiniCrm\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\topra\\source\\repos\\MiniCrm\\MiniCrm\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MiniCrm\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-27T11:41:09.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerSales.cshtml",
+              "DocumentMoniker": "C:\\Users\\topra\\source\\repos\\MiniCrm\\MiniCrm\\Views\\Report\\CustomerSales.cshtml",
+              "RelativeDocumentMoniker": "MiniCrm\\Views\\Report\\CustomerSales.cshtml",
+              "ToolTip": "C:\\Users\\topra\\source\\repos\\MiniCrm\\MiniCrm\\Views\\Report\\CustomerSales.cshtml",
+              "RelativeToolTip": "MiniCrm\\Views\\Report\\CustomerSales.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-27T11:40:12.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TotalSalesAndRevenue.cshtml",
+              "DocumentMoniker": "C:\\Users\\topra\\source\\repos\\MiniCrm\\MiniCrm\\Views\\Report\\TotalSalesAndRevenue.cshtml",
+              "RelativeDocumentMoniker": "MiniCrm\\Views\\Report\\TotalSalesAndRevenue.cshtml",
+              "ToolTip": "C:\\Users\\topra\\source\\repos\\MiniCrm\\MiniCrm\\Views\\Report\\TotalSalesAndRevenue.cshtml",
+              "RelativeToolTip": "MiniCrm\\Views\\Report\\TotalSalesAndRevenue.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-27T11:37:50.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OfferSuccessRate.cshtml",
+              "DocumentMoniker": "C:\\Users\\topra\\source\\repos\\MiniCrm\\MiniCrm\\Views\\Report\\OfferSuccessRate.cshtml",
+              "RelativeDocumentMoniker": "MiniCrm\\Views\\Report\\OfferSuccessRate.cshtml",
+              "ToolTip": "C:\\Users\\topra\\source\\repos\\MiniCrm\\MiniCrm\\Views\\Report\\OfferSuccessRate.cshtml",
+              "RelativeToolTip": "MiniCrm\\Views\\Report\\OfferSuccessRate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-27T11:37:27.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\source\\repos\\MiniCrm\\MiniCrm\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "MiniCrm\\Controllers\\ReportController.cs",
+              "ToolTip": "C:\\Users\\topra\\source\\repos\\MiniCrm\\MiniCrm\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "MiniCrm\\Controllers\\ReportController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T11:33:48.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SaleController.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\source\\repos\\MiniCrm\\MiniCrm\\Controllers\\SaleController.cs",
+              "RelativeDocumentMoniker": "MiniCrm\\Controllers\\SaleController.cs",
+              "ToolTip": "C:\\Users\\topra\\source\\repos\\MiniCrm\\MiniCrm\\Controllers\\SaleController.cs",
+              "RelativeToolTip": "MiniCrm\\Controllers\\SaleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T11:15:43.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Offer.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\source\\repos\\MiniCrm\\MiniCrm\\Controllers\\Offer.cs",
+              "RelativeDocumentMoniker": "MiniCrm\\Controllers\\Offer.cs",
+              "ToolTip": "C:\\Users\\topra\\source\\repos\\MiniCrm\\MiniCrm\\Controllers\\Offer.cs",
+              "RelativeToolTip": "MiniCrm\\Controllers\\Offer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T11:14:28.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\source\\repos\\MiniCrm\\MiniCrm\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "MiniCrm\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\topra\\source\\repos\\MiniCrm\\MiniCrm\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "MiniCrm\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T11:11:46.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EY.cshtml",
+              "DocumentMoniker": "C:\\Users\\topra\\source\\repos\\MiniCrm\\MiniCrm\\Views\\Customer\\EY.cshtml",
+              "RelativeDocumentMoniker": "MiniCrm\\Views\\Customer\\EY.cshtml",
+              "ToolTip": "C:\\Users\\topra\\source\\repos\\MiniCrm\\MiniCrm\\Views\\Customer\\EY.cshtml",
+              "RelativeToolTip": "MiniCrm\\Views\\Customer\\EY.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-27T11:08:07.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\topra\\source\\repos\\MiniCrm\\MiniCrm\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiniCrm\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\topra\\source\\repos\\MiniCrm\\MiniCrm\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "MiniCrm\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-27T11:07:45.796Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
